@@ -1,0 +1,8 @@
+C:\Estudos\UsuarioApi\UsuarioApi.Domain\bin\Debug\netstandard2.0\UsuarioApi.Domain.deps.json
+C:\Estudos\UsuarioApi\UsuarioApi.Domain\bin\Debug\netstandard2.0\UsuarioApi.Domain.dll
+C:\Estudos\UsuarioApi\UsuarioApi.Domain\bin\Debug\netstandard2.0\UsuarioApi.Domain.pdb
+C:\Estudos\UsuarioApi\UsuarioApi.Domain\obj\Debug\netstandard2.0\UsuarioApi.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\UsuarioApi\UsuarioApi.Domain\obj\Debug\netstandard2.0\UsuarioApi.Domain.AssemblyInfoInputs.cache
+C:\Estudos\UsuarioApi\UsuarioApi.Domain\obj\Debug\netstandard2.0\UsuarioApi.Domain.AssemblyInfo.cs
+C:\Estudos\UsuarioApi\UsuarioApi.Domain\obj\Debug\netstandard2.0\UsuarioApi.Domain.dll
+C:\Estudos\UsuarioApi\UsuarioApi.Domain\obj\Debug\netstandard2.0\UsuarioApi.Domain.pdb

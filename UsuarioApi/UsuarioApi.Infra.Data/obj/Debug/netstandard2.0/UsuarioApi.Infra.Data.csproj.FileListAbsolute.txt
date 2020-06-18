@@ -1,0 +1,14 @@
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\bin\Debug\netstandard2.0\UsuarioApi.Infra.Data.deps.json
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\bin\Debug\netstandard2.0\UsuarioApi.Infra.Data.dll
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\bin\Debug\netstandard2.0\UsuarioApi.Infra.Data.pdb
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\bin\Debug\netstandard2.0\UsuarioApi.Application.dll
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\bin\Debug\netstandard2.0\UsuarioApi.Domain.dll
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\bin\Debug\netstandard2.0\UsuarioApi.Application.pdb
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\bin\Debug\netstandard2.0\UsuarioApi.Domain.pdb
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\obj\Debug\netstandard2.0\UsuarioApi.Infra.Data.csprojAssemblyReference.cache
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\obj\Debug\netstandard2.0\UsuarioApi.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\obj\Debug\netstandard2.0\UsuarioApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\obj\Debug\netstandard2.0\UsuarioApi.Infra.Data.AssemblyInfo.cs
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\obj\Debug\netstandard2.0\UsuarioApi.Infra.Data.csproj.CopyComplete
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\obj\Debug\netstandard2.0\UsuarioApi.Infra.Data.dll
+C:\Estudos\UsuarioApi\UsuarioApi.Infra.Data\obj\Debug\netstandard2.0\UsuarioApi.Infra.Data.pdb

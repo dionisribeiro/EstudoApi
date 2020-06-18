@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvIY2//ScPow7NeiYCRSJOm1CH81gZ6z7lBI1PcDX08jpxS0a/eVF7KqH2fprMXnp/XIwBgimcPph8Qshq+rAw==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\UsuarioApi\\UsuarioApi.Domain\\UsuarioApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dionis Ribeiro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dionis Ribeiro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
